@@ -1,0 +1,2 @@
+One server, 3 routes
+3 html pages
